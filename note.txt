@@ -3,8 +3,11 @@ Github
 - clone
 - push
 - pull
-- merge
+- merge : lokal
 - add
 - commit
 - checkout -b [name] 
 - git status
+- git branch
+- git push -u origin [nama branch]
+- git pull : update terbaru
