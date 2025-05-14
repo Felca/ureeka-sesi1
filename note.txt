@@ -1,0 +1,10 @@
+Github
+
+- clone
+- push
+- pull
+- merge
+- add
+- commit
+- checkout -b [name] 
+- git status
